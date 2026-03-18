@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:-1,NASA TV (კოსმოსი და მეცნიერება)
-http://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1,Red Bull TV (Russian)
+https://rbmn-live.akamaized.net/hls/live/590945/flxtv/playlist.m3u8?lang=ru
 
-#EXTINF:-1,Wild Nature (ველური ბუნება)
-http://111.118.44.177:1935/live/nature/playlist.m3u8
-
-#EXTINF:-1,Discovery World (სამეცნიერო)
-http://45.150.224.234:8080/Discovery_World/index.m3u8
+#EXTINF:-1,Наука HD (Science Russian)
+http://81.17.147.162/nauka/index.m3u8
