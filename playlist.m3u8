@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Wildlife World (Live)
-https://www.youtube.com/watch?v=6mfsB_r5v-4
+#EXTINF:-1,Wild Nature 4K
+http://81.17.147.162/nature/index.m3u8
 
-#EXTINF:-1,African Wildlife (Waterhole)
-https://www.youtube.com/watch?v=Ky02Z92O6L8
+#EXTINF:-1,Animals & Science (Global)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1,Tropical Reef Fish (Live)
-https://www.youtube.com/watch?v=v66R_F48Vp0
+#EXTINF:-1,Sea World (Ocean)
+https://rt-world.akamaized.net/hls/world/index.m3u8
