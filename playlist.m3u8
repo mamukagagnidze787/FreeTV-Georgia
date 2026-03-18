@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Ocean TV (Nature & Science)
-http://81.17.147.162/ocean/index.m3u8
+#EXTINF:-1,WildEarth (Safari Live - რეალური ბუნება)
+https://wildearth.akamaized.net/hls/live/2039200/WildEarth/master.m3u8
 
-#EXTINF:-1,Дикая Природа (Nature Russian)
-http://81.17.147.162/nature/index.m3u8
+#EXTINF:-1,Love Nature (ბუნება HD)
+https://ln-pt-s-p-v-st.akamaized.net/hls/live/2042654/PT_S_P_V_ST/master_720.m3u8
 
-#EXTINF:-1,Охота и Рыбалка (Fishing/Hunting)
-http://81.17.147.162/oxota/index.m3u8
+#EXTINF:-1,NASA Live (კოსმოსი - 100% მუშა)
+https://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
 
-#EXTINF:-1,Russian Extreme (Action)
-http://81.17.147.162/extreme/index.m3u8
+#EXTINF:-1,Sport Outdoors (თევზაობა/ექსტრიმი)
+https://stmv1.akamaized.net/sportoutdoors/sportoutdoors/playlist.m3u8
