@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Wildlife & Science (HD)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1,Ocean TV (Nature & Science)
+http://81.17.147.162/ocean/index.m3u8
 
-#EXTINF:-1,Nature 4K Test
-http://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,Дикая Природа (Nature Russian)
+http://81.17.147.162/nature/index.m3u8
 
-#EXTINF:-1,NASA Live (კოსმოსი)
-https://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1,Охота и Рыбалка (Fishing/Hunting)
+http://81.17.147.162/oxota/index.m3u8
+
+#EXTINF:-1,Russian Extreme (Action)
+http://81.17.147.162/extreme/index.m3u8
