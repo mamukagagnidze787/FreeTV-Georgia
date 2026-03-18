@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Red Bull TV (Russian)
-https://rbmn-live.akamaized.net/hls/live/590945/flxtv/playlist.m3u8?lang=ru
+#EXTINF:-1,Охота и Рыбалка (თევზაობა და ნადირობა)
+http://81.17.147.162/oxota/index.m3u8
 
-#EXTINF:-1,Наука HD (Science Russian)
-http://81.17.147.162/nauka/index.m3u8
+#EXTINF:-1,Дикая Природа (ველური ბუნება)
+http://81.17.147.162/nature/index.m3u8
+
+#EXTINF:-1,Планета HD (მოგზაურობა რუსულად)
+http://45.150.224.234:8080/Planeta_HD/index.m3u8
+
+#EXTINF:-1,Red Bull TV (რუსული ექსტრიმი)
+https://rbmn-live.akamaized.net/hls/live/590945/flxtv/playlist.m3u8?lang=ru
