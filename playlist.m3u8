@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Охотник и Рыболов (ნადირობა და თევზაობა)
-http://81.17.147.162/oxota/index.m3u8
-
-#EXTINF:-1,Дикая Природа (ბუნება რუსულად)
+#EXTINF:-1,Wild Nature (რუსული - სტაბილური)
 http://81.17.147.162/nature/index.m3u8
 
-#EXTINF:-1,Живая Планета (ცხოველთა სამყარო)
-http://45.150.224.234:8080/Planeta_HD/index.m3u8
+#EXTINF:-1,Fishing & Hunting (თევზაობა)
+http://81.17.147.162/oxota/index.m3u8
 
-#EXTINF:-1,Russian Extreme (რუსული ექსტრიმი)
-http://81.17.147.162/extreme/index.m3u8
+#EXTINF:-1,Science HD (მეცნიერება)
+http://81.17.147.162/nauka/index.m3u8
+
+#EXTINF:-1,Animal Planet (Test)
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
