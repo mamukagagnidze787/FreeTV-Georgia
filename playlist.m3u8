@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1,WildEarth (Safari Live - რეალური ბუნება)
-https://wildearth.akamaized.net/hls/live/2039200/WildEarth/master.m3u8
+#EXTINF:-1,1TV (პირველი არხი)
+https://1tv-live.itv.ge/hls/1tv/index.m3u8
 
-#EXTINF:-1,Love Nature (ბუნება HD)
-https://ln-pt-s-p-v-st.akamaized.net/hls/live/2042654/PT_S_P_V_ST/master_720.m3u8
+#EXTINF:-1,Ajara TV (აჭარა)
+https://atv-live.itv.ge/hls/atv/index.m3u8
 
-#EXTINF:-1,NASA Live (კოსმოსი - 100% მუშა)
-https://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1,Rustavi 2 (რუსთავი 2)
+https://r2-live.itv.ge/hls/r2/index.m3u8
 
-#EXTINF:-1,Sport Outdoors (თევზაობა/ექსტრიმი)
-https://stmv1.akamaized.net/sportoutdoors/sportoutdoors/playlist.m3u8
+#EXTINF:-1,Imedi TV (იმედი)
+https://im-live.itv.ge/hls/im/index.m3u8
+
+#EXTINF:-1,PosTV
+https://postv-live.itv.ge/hls/postv/index.m3u8
