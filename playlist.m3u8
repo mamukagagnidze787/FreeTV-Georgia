@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Nature Relax 4K
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,Nature Relax 4K (მომუშავე)
+http://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1,Science & Tech (NASA TV)
-https://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1,NASA TV (კოსმოსი და მეცნიერება)
+http://ntv1.akamaized.net/hls/live/2013149/NASA-NTV1-Public/master.m3u8
 
-#EXTINF:-1,Global News & Science
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1,Wild Animals (ველური ბუნება)
+http://111.118.44.177:1935/live/nature/playlist.m3u8
+
+#EXTINF:-1,African Safari (პირდაპირი ეთერი)
+http://wowza6.streamGuys.com:1935/live/SafariLive.stream/playlist.m3u8
