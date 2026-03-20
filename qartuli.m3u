@@ -1,25 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1TV.ge@SD" tvg-logo="https://i.imgur.com/FSKYLPK.png" group-title="General",1TV (720p)
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-id="2TV.ge@SD" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General",2TV (720p)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="General",Imedi TV (1080p)
-https://live20.bozztv.com/dvrf105/gin-imedi/index.m3u8
-#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-logo="https://i.imgur.com/7iK6nBZ.png" group-title="General",Rustavi 2
-https://live20.bozztv.com/dvrf105/gin-rustavi2/index.m3u8
-#EXTINF:-1 tvg-id="Formula.ge@SD" tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="News",Formula (1080p)
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
-#EXTINF:-1 tvg-id="Maestro.ge@SD" tvg-logo="https://i.imgur.com/vH0Hj3S.png" group-title="General",Maestro
-https://live20.bozztv.com/dvrf105/gin-maestro/index.m3u8
 
-# --- სპორტული არხები ---
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH0Hj3S.png" group-title="Sports",Setanta Sports 1
+# --- საქართველო / GEORGIA ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSKYLPK.png" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="Georgia",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94hNyxZ.png" group-title="Georgia",Imedi TV
+https://live20.bozztv.com/dvrf105/gin-imedi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7iK6nBZ.png" group-title="Georgia",Rustavi 2
+https://live20.bozztv.com/dvrf105/gin-rustavi2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsqBn8G.png" group-title="Georgia",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 group-title="Georgia",Maestro
+https://live20.bozztv.com/dvrf105/gin-maestro/index.m3u8
+#EXTINF:-1 group-title="Georgia",Palitra TV
+https://tv.cdn.xsg.ge/palitra/index.m3u8
+#EXTINF:-1 group-title="Georgia",PosTV
+https://tv.cdn.xsg.ge/postv/index.m3u8
+#EXTINF:-1 group-title="Georgia",TV Pirveli
+https://tv.cdn.xsg.ge/tv1/index.m3u8
+
+# --- სპორტი / SPORTS ---
+#EXTINF:-1 group-title="Sports",Setanta Sports 1
 https://stream.itv.ge/setanta1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH0Hj3S.png" group-title="Sports",Setanta Sports 2
+#EXTINF:-1 group-title="Sports",Setanta Sports 2
 https://stream.itv.ge/setanta2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Eurosport_1_logo.png" group-title="Sports",Eurosport 1
+#EXTINF:-1 group-title="Sports",Eurosport 1
 https://cdn.iptv71.com/eurosport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Eurosport_2_logo.png" group-title="Sports",Eurosport 2
+#EXTINF:-1 group-title="Sports",Eurosport 2
 https://cdn.iptv71.com/eurosport2/index.m3u8
-#EXTINF:-1 tvg-id="Adjarasport1.ge@SD" tvg-logo="https://i.imgur.com/SVV5xHC.png" group-title="Sports",Adjarasport 1
+#EXTINF:-1 group-title="Sports",Adjarasport 1
 https://live20.bozztv.com/dvrf105/gin-adjara/index.m3u8
+#EXTINF:-1 group-title="Sports",Silk Sport 1
+https://live20.bozztv.com/dvrf105/gin-silksport1/index.m3u8
