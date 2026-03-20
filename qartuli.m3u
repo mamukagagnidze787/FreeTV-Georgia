@@ -19,6 +19,8 @@ https://tv.cdn.xsg.ge/palitra/index.m3u8
 https://tv.cdn.xsg.ge/postv/index.m3u8
 #EXTINF:-1 group-title="Georgia",TV Pirveli
 https://tv.cdn.xsg.ge/tv1/index.m3u8
+#EXTINF:-1 group-title="Georgia",Obieqtivi
+https://tv.cdn.xsg.ge/obieqtivi/index.m3u8
 
 # --- სპორტი / SPORTS ---
 #EXTINF:-1 group-title="Sports",Setanta Sports 1
