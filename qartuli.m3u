@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:-1, Rustavi 2
-https://r2.itv.ge/live/r2/playlist.m3u8
-#EXTINF:-1, Imedi TV
-https://imedi.itv.ge/live/imedi/playlist.m3u8
-#EXTINF:-1, TV Pirveli
-https://tvp.itv.ge/live/tvp/playlist.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge", Rustavi 2
+https://tv.cdn.xsg.ge/rustavi2-live/index.m3u8
+
+#EXTINF:-1 tvg-id="ImediTV.ge", Imedi TV
+https://tv.cdn.xsg.ge/imedi-live/index.m3u8
+
+#EXTINF:-1 tvg-id="TV1.ge", TV Pirveli
+https://tv.cdn.xsg.ge/tv1-live/index.m3u8
+
+#EXTINF:-1 tvg-id="Maestro.ge", Maestro
+https://tv.cdn.xsg.ge/maestro-live/index.m3u8
