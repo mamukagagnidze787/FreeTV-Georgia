@@ -1,50 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Rustavi 2", Rustavi 2
-https://tv.cdn.xsg.ge/rustavi2-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Imedi TV", Imedi TV
-https://tv.cdn.xsg.ge/imedi-live/index.m3u8
-
-#EXTINF:-1 tvg-id="1 TV Georgia", Pirveli Arkhi
-https://tv.cdn.xsg.ge/tv1-live/index.m3u8
-
-#EXTINF:-1 tvg-id="2 TV Georgia", Meore Arkhi
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-
-#EXTINF:-1 tvg-id="Maestro", Maestro
-https://tv.cdn.xsg.ge/maestro-live/index.m3u8
-
-#EXTINF:-1 tvg-id="GDS TV", GDS TV
-https://tv.cdn.xsg.ge/gds-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Pos TV", Pos TV
-https://live.postv.media/stream/index.m3u8
-
-#EXTINF:-1 tvg-id="Ertsulovneba", Ertsulovneba
-https://tv.cdn.xsg.ge/ertsulovneba-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Ajara TV", Ajara TV
-https://tv.cdn.xsg.ge/ajaratv-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Palitra TV", Palitra TV
-https://tv.cdn.xsg.ge/palitra-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Obieqtivi", Obieqtivi
-https://tv.cdn.xsg.ge/obieqtivi-live/index.m3u8
-
-#EXTINF:-1 tvg-id="Euronews Georgia", Euronews Georgia
-https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mtavari Arkhi", Mtavari Arkhi
-https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Pirveli", TV Pirveli
-https://edge-1.tv1.ge/live/index.m3u8
-
-#EXTINF:-1 tvg-id="BMG", BMG
-https://tv.cdn.xsg.ge/bmg-live/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel", Disney Channel
-https://amg01200-amg01200c1-disney-channel-brazil-4240.i.t-online.de/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon", Nickelodeon
 https://p-nick-intl-brazil.akamaized.net/index.m3u8
