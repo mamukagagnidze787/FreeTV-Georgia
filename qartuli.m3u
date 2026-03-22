@@ -6,3 +6,9 @@ https://p-nick-intl-brazil.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network", Cartoon Network
 https://turner-cartoon-network-latam.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Setanta Sports 1", Setanta Sports 1
+http://185.117.118.182:8081/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-id="Setanta Sports 2", Setanta Sports 2
+http://185.117.118.182:8081/setanta2/index.m3u8
