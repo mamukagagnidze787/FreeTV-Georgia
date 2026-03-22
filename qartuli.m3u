@@ -43,3 +43,11 @@ https://edge-1.tv1.ge/live/index.m3u8
 
 #EXTINF:-1 tvg-id="BMG", BMG
 https://tv.cdn.xsg.ge/bmg-live/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel", Disney Channel
+https://amg01200-amg01200c1-disney-channel-brazil-4240.i.t-online.de/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon", Nickelodeon
+https://p-nick-intl-brazil.akamaized.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network", Cartoon Network
+https://turner-cartoon-network-latam.akamaized.net/playlist.m3u8
