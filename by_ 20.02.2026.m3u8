@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 group-title="Belarus",Бел 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://iptvx.one/picons/belarus3hd.png",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Belarus",НТВ Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://i.imgur.com/PozF9MT.png",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://i.imgur.com/HWqxjGl.png",Belros
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://i.imgur.com/7tFiG6S.jpg",Pervyy Muzykal
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://i.imgur.com/e2RyN4r.jpg",Radio HIT Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="Belarus",Беларусь 24
+https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus",Беларусь 5 Интернет
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus",Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Belarus",Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Belarus",Первый информационный
+http://194.158.222.36:6105
+#EXTINF:-1 group-title="Belarus" tvg-logo="https://iptvx.one/picons/stv-by.png",CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/YdyFJrl.png",Первый Музыкальный Канал (576p)
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rEo7nR1.png",Первый Музыкальный Канал Россия (576p)
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/SjdOaya.png",ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/JUrKfq9.png",Belsat TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
+#EXTINF:-1 ,Первый Музыкальный Канал HD (1080p)
+http://rtmp.one.by:1300
+#EXTINF:-1 ,Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
