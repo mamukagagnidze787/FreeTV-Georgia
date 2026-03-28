@@ -8083,11 +8083,3 @@ https://mhd128.iptv2022.com/p/i3tCEJdjjTtNde3BhTay5Q,1774338960/streaming/soviet
 #EXTINF:-1 group-title="Lime (VPN)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10182/logo_256_1658733860.png", Shot TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/HOjkbeiG6peX8uXsJ5Szlw,1774338960/streaming/shottv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="GEORGIA",GDS TV
-https://edge-fullhd-01.itv.ge/hls/gds/index.m3u
-#EXTINF:-1 group-title="GEORGIA",Mtavari Arkhi
-https://edge-fullhd-01.itv.ge/hls/mtavari/index.m3u8
-#EXTINF:-1 group-title="GEORGIA",Formula TV
-https://edge-fullhd-01.itv.ge/hls/formula/index.m3u8
-#EXTINF:-1 group-title="GEORGIA",TV Pirveli (HD)
-https://edge-fullhd-01.itv.ge/hls/tv1/index.m3u8
