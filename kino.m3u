@@ -5600,3 +5600,7 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 group-title="GEORGIA" tvg-logo="https://i.imgur.com/7Jo7UAf.png",АБАЗА-ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 group-title="ქართული არხები", Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="ქართული არხები", Setanta 2 HD GEO
+http://94.43.1.138:8081/setanta2/index.m3u8
