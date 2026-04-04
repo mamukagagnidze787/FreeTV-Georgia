@@ -5604,3 +5604,5 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 group-title="ქართული არხები",rustavi 2
 https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=K8-bD5G9tCob0F630EUGqgtYpZXas0kOnkoxG0Mvvv44tW_CCXdO32SQF4XzD-u9YCtF40yIiZKfU7LFck1SQ2bcbGD4kAhhXTfcU-88vu4PgSiORu5h8rZeg8_ZoBYOd9M12-EFBml-RbEvzLtJRyN34wPMMIuCLx9df_xJOzKuhVSpGNSHD_P89T6n3YW4HoIAqkE3RAmg9adQHN4suPYHOIT26bq7bpE0Y4VFL5H3lQ648u2rhjdFT5eAOxZm3-tVwtxY6dR0gmFgsMhPF7FFNRszeC3bZaMuzU5eIRDSAHPN_7AHNNzLn57Sm0H0
+#EXTINF:-1 catchup="shift" catchup-days="1" group-title="ქართული არხები", პირველი TV (არქივით)
+http://tbs01-edge32.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=q9TT9-4_m_6CJcvlh76wVXY8m10_APISp-m5fz75NaAL3yYhe4ehoMGNRni8VUlpdV70lamznzgPnB_GdS1CT6wM
