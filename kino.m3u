@@ -22450,7 +22450,7 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="GEORGIA", Setanta 2 HD GEO
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="ჩემი კინო", ვნანობ შენთან ყოფნას 
+#EXTINF:-1 group-title="ჩემი კინო", ვნანობ შენთან ყოფ exნას 
 https://ufasofilmebi.net/static/streaming-playlists/hls/5a50a461-13bd-4056-beec-a66b2867962a/3045f551-a109-407a-a7c0-a7df476ac3ed-480-fragmented.mp4
 #EXTINF:-1 group-title="ჩემი კინო", ალესილი დანა /sling blade /1996
 https://ufasofilmebi.net/static/streaming-playlists/hls/08eab564-5c5d-4114-8f99-262641406d47/cad39794-496f-4f79-a64f-441d3c839ee4-480-fragmented.mp4
@@ -22458,8 +22458,6 @@ https://ufasofilmebi.net/static/streaming-playlists/hls/08eab564-5c5d-4114-8f99-
 https://ufasofilmebi.net/static/streaming-playlists/hls/7a095717-d443-42f4-9fe2-8401bfca769e/b568dd0a-d9dd-44e4-89fd-320cfd2bc7e0-480-fragmented.mp4
 #EXTINF:-1 group-title="ჩემი კინო", შერკინება/Heat
 https://ufasofilmebi.net/download/videos/generate/ac49ec71-03a4-4833-b7ef-e151424c38e6?videoFileIds=7991
-#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA",TV PIRVELI
-http://tbs01-edge37.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=8VHTFg-0WchbXyL8dmjqrjWdycmyVkM3WOk982odl5CjlSNdWHCw22h5sVZHTpGmBuksXnTkz5rHPm6Nd_HBQUnw6o0LfDjEA4cjAz-tx1a2PLsfje1_5icfpsRM-aFN1HgAq75Pn9K7P86aqWrtgDUzdRNxDaUj1u6MZ7GmiVOManB7ibnLDktgwPJMBUVCqDDXlg82VU2aw1hjdVsbIC-bhe6cF4kOjYvUJrQEn49Oo-RYmtTrqdisljdD9Xb6-ebp2lPwLD8dQa_sKqjRGhIFFsa5cm9rFP8y4TVkzaZa_E56nBmPG8X-hFFXkNHr
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA",RUSTAVI 2
 http://tbs01-edge19.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=JPDcNiArNDC1JHDGaawpBXUPsizfKBdyjyxkdfsxqjSdSMXOOo_dFh34Y4AkY0KpoiiAdd4qxiLP3uUR0vfjtuGZMEcr2ymBE5HkLIUvtQ3z6-RWBFK-h4ZToJ027bo--f0SpfWh2iN1Io7RXBqsL3ltgABCdRa8_hXnkerKCBUqs5BTL0_whIOiKdqvMteTtB9JJ1ZN6grG_z_Rct7Qe-phfXXwR2iGwZURmwaCykjXEKSrIK0I4dsiYtljX1F-atqbpFnzcHTgUPJzBIcgOq6cpqwGmXhsC1nqdArVd-NqGhIB2aFKuzw83ylO8ztD
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA",SILQ UNIVERSAL
@@ -22470,3 +22468,4 @@ http://tbs01-edge35.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=FySFTgcW4O
 https://ufasofilmebi.net/download/videos/generate/c2c45211-9641-4ba5-89d2-e84e16db24a5?videoFileIds=7267
 #EXTINF:-1 group-title="ჩემი კინო", ომის მანქანა/war mashine(2026)
 https://ufasofilmebi.net/download/videos/generate/e8f84d54-cdcc-4965-bff0-658513000eef?videoFileIds=7250
+#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ტვ პირვველი
