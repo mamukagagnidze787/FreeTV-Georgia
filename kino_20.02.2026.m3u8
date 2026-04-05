@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="KINO",.sci-fi
+#EXTINF:-1 catchup="shift" catchup-days="2" group-title="KINO",.sci-fi
 http://158.101.222.193:88/georgia_play.php?id=scifi
 #EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-12-30/ea/cc/eacc279ce381e0106463fa6516281a57.jpg",13 дней 13 ночей (2025)
 https://river-1.rutube.ru/hls-vod/-Zk2CPfG2uUW2GL9pAtnSg/1771695234/2600/0x5000039ce86a09a5/a3cd7f15077b4fc19768ce8629f7f665.mp4.m3u8?i=848x352_650
