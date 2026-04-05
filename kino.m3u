@@ -5603,9 +5603,8 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="GEORGIA", Setanta 2 HD GEO
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA",rustavi 2 
-https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=K8-bD5G9tCob0F630EUGqgtYpZXas0kOnkoxG0Mvvv44tW_CCXdO32SQF4XzD-u9YCtF40yIiZKfU7LFck1SQ2bcbGD4kAhhXTfcU-88vu4PgSiORu5h8rZeg8_ZoBYOd9M12-EFBml-RbEvzLtJRyN34wPMMIuCLx9df_xJOzKuhVSpGNSHD_P89T6n3YW4HoIAqkE3RAmg9adQHN4suPYHOIT26bq7bpE0Y4VFL5H3lQ648u2rhjdFT5eAOxZm3-tVwtxY6dR0gmFgsMhPF7FFNRszeC3bZaMuzU5eIRDSAHPN_7AHNNzLn57Sm0H0
-#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA",tv pirveli
-#EXTINF:-1 group-title="ჩემი კინო", ვნანობ შენთან ყოფნას (Regretting you)
+https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=K8-bD5G9tCob0F630EUGqgtYpZXas0kOnkoxG0Mvvv44tW_CCXdO32SQF4XzD-u9YCtF40yIiZKfU7LFck1SQ2bcbGD4kAhhXTfcU-88vu4PgSiORu5h8rZeg8_ZoBYOd9M12-EFBml-RbEvzLtJRyN34wPMMIuCLx9df_xJOzKuhVSpGNSHD_P89T6n3YW4HoIAqkE3RAmg9adQHN4suPYHOIT26bq7bpE0Y4VFL5H3lQ648u2rhjdFT5eAOxZm3-tVwtxY6dR0gmFgsMhPF7FFNRszeC3bZaMuzU5eIRDSAHPN_7AHNNzLn57Sm0H
+#EXTINF:-1 group-title="ჩემი კინო", ვნანობ შენთან ყოფნას 
 https://ufasofilmebi.net/static/streaming-playlists/hls/5a50a461-13bd-4056-beec-a66b2867962a/3045f551-a109-407a-a7c0-a7df476ac3ed-480-fragmented.mp4
 #EXTINF:-1 group-title="ჩემი კინო", ალესილი დანა /sling blade /1996
 https://ufasofilmebi.net/static/streaming-playlists/hls/08eab564-5c5d-4114-8f99-262641406d47/cad39794-496f-4f79-a64f-441d3c839ee4-480-fragmented.mp4
