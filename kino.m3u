@@ -22360,8 +22360,6 @@ https://ufasofilmebi.net/static/streaming-playlists/hls/5a50a461-13bd-4056-beec-
 https://ufasofilmebi.net/static/streaming-playlists/hls/08eab564-5c5d-4114-8f99-262641406d47/cad39794-496f-4f79-a64f-441d3c839ee4-480-fragmented.mp4
 #EXTINF:-1 group-title="ჩემი კინო", ტყის შვილები/Woovalkers 2024
 https://ufasofilmebi.net/static/streaming-playlists/hls/7a095717-d443-42f4-9fe2-8401bfca769e/b568dd0a-d9dd-44e4-89fd-320cfd2bc7e0-480-fragmented.mp4
-#EXTINF:-1 group-title="ჩემი კინო", შერკინება/Heat
-https://ufasofilmebi.net/download/videos/generate/ac49ec71-03a4-4833-b7ef-e151424c38e6?videoFileIds=7991
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", RUSTAVI 2
 https://tbs01-edge05.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=1B3Uqwu9ddzSsdAkhGoSrIir81xPUxBExVf17W8yu9zHgoRH-O_IyXhsSBkOXA8LOnT3UDmiyi3P5oAGdNNtyT0q9yh4Tdd7qFUnb2t6ODPlx2E9JWROQpz7qvenhw93ha8WLIvIi6FqpJMHLKjQr1DVc_aoFcbyf9ZIYKhrCWik_NSzzGe_je0khtIDSMnnhkq6ymeRGWkv1BOE_d3XECexQzReJRFseqfGD8BsoBSb99neqsZQiKY9e4Ivw9Un0jagdBSJ43tET7uH0fpvqQeH82VSWLba9moQVCnsvdh7W2_3RUeM4VN76v1_jUli
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", SILQ UNIVERSAL
@@ -22372,7 +22370,7 @@ https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 https://ufasofilmebi.net/download/videos/generate/c2c45211-9641-4ba5-89d2-e84e16db24a5?videoFileIds=7267
 #EXTINF:-1 group-title="ჩემი კინო", ომის მანქანა/2026
 https://ufasofilmebi.net/download/videos/generate/e8f84d54-cdcc-4965-bff0-658513000eef?videoFileIds=7250
-#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ტვ პირვველი
+#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ტვ პირველი
 https://tbs01-edge05.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=1B3Uqwu9ddzSsdAkhGoSrIir81xPUxBExVf17W8yu9zHgoRH-O_IyXhsSBkOXA8LOnT3UDmiyi3P5oAGdNNtyT0q9yh4Tdd7qFUnb2t6ODPlx2E9JWROQpz7qvenhw93ha8WLIvIi6FqpJMHLKjQr1DVc_aoFcbyf9ZIYKhrCWik_NSzzGe_je0khtIDSMnnhkq6ymeRGWkv1BOE_d3XECexQzReJRFseqfGD8BsoBSb99neqsZQiKY9e4Ivw9Un0jagdBSJ43tET7uH0fpvqQeH82VSWLba9moQVCnsvdh7W2_3RUeM4VN76v1_jUli
 #EXTINF:-1 group-title="ჩემი კინო", შერკინება
 https://ufasofilmebi.net/download/videos/generate/ac49ec71-03a4-4833-b7ef-e151424c38e6?videoFileIds=7991
