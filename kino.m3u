@@ -22355,14 +22355,11 @@ http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", RUSTAVI 2
 https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=_P72RUChv2f_f81qHgTGQfaFId58OW6TR02jyLE6BQvdb0axKv1FbYTZnzyAnzJGalxCkyb1mY9ymToQEd1FXrwJbDS-76gjXmXkUw3mwkIbteJCjpoNj2bCeyb5Xs_RsZP0Ofxuw0WNbCT6rkgWfagvtyUpxOKgBsYIMZaTtnpsQDOUm9stypbJDovO1_zQ5MbHRfFLbeALG21faSpBPIJrVj5Y1bLWac7LPhCt5s-qCnQuU2wPW7yME0kMiFt3sGJpBxdR-yFtEZeOR6v6mwerp1UGi4aLPQ3dBGdBVm5MoJljSgHyWMdHjiZHKpRf
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", SILQ UNIVERSAL
-https://tbs01-edge35.itdc.ge/silk_sport4/tracks-v1a1/mono.m3u8?token=R0tsl9ofbLIm1zs1fTjITHkVYWK3nJpr9iWUO3gaUo2ioEBQu3OINHiRtxQjUXy0ztX66wHyYpX7cN8A6YFacgrHL4PhUffzU5Ce0eAYO9JA_5kTXaOxUYJHokbLZvVt639-O36zonRwC3JMA2j9ZMo72jEPld9oAd1iVVjRyP3XcSTIUtFni4sJfpzIDy_xhN5ZQwjEPFDpjyugyn-m9sP37cAT626J2C5ogakC_qfiyku9taY2hMqDZ3tmgYI1YOrOTdy-4ri_iXPX9a70MJI7I3h6D8C535KIdVNo-Djvnr3VG29LUOsqT6fFBDiF
+
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ფეხბურთი TV-Fexburti
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/032d92a6-2f92-4781-884f-d3f29c589b16/2.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ტვ პირველი
-https://tbs01-edge05.itdc.ge/pirvelitv/tracks-v1a1/mono.m3u8?token=1B3Uqwu9ddzSsdAkhGoSrIir81xPUxBExVf17W8yu9zHgoRH-O_IyXhsSBkOXA8LOnT3UDmiyi3P5oAGdNNtyT0q9yh4Tdd7qFUnb2t6ODPlx2E9JWROQpz7qvenhw93ha8WLIvIi6FqpJMHLKjQr1DVc_aoFcbyf9ZIYKhrCWik_NSzzGe_je0khtIDSMnnhkq6ymeRGWkv1BOE_d3XECexQzReJRFseqfGD8BsoBSb99neqsZQiKY9e4Ivw9Un0jagdBSJ43tET7uH0fpvqQeH82VSWLba9moQVCnsvdh7W2_3RUeM4VN76v1_jUli
-#EXTINF:-1 group-title="GEORGIA", GDS TV
-https://live1.mar.tv/4cf5d9c27d25656a41094ae846f3797699af1e30af85f4b8ed861b4e2869b74d/13sd/index.m3u8
-#EXTINF:-1 group-title="ჩემი კინო", შურისძიება(2018}
-https://a51.filevideo1.com/remote_control.php?time=1775511176&cv=59a66c2293932c1af350f5d55d2ef925&lr=0&cv2=edec40c10872d8da34ec769fa91331a3&file=%2Fvideos%2F779000%2F779112%2F779112_360p.mp4&cv3=2d8ee1a66c0ca6ce75d84c67a50a70e9&cv4=587499823447f569a211dbcfb6dab763
+
+#EXTINF:-1 group-title="ჩემი კინო", 
 
 
