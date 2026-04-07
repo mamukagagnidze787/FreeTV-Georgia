@@ -1,8 +1,4 @@
-#EXTM3U
-#EXTINF:-1 group-title="ჩემი კინო", ცივი საცავი (Cold Storage)
-https://ufasofilmebi.net/download/videos/generate/a3432284-fd44-4e97-80a7-4bc5570c0df9?videoFileIds=7954
-#EXTINF:-1 group-title="ჩემი კინო", აგენტი ზეტა (agent zeta)                                                                                                                                
-https://ufasofilmebi.net/download/videos/generate/ed2e87ef-32ab-4a07-b5ae-d1a28180fce7?videoFileIds=7939
+#EXTM3U                                                                                                
 #EXTINF:-1 group-title="სასაცილო მულტფილმები ქართულად", ნადირობის სეზონი (open sezon)
 https://ufasofilmebi.net/download/videos/generate/520cd602-1ac9-44ff-9c1a-0619d6584f2b?videoFileIds=3418
 #EXTINF:-1 group-title="სასაცილო მულტფილმები ქართულად", მადაგასკარი (madagaskar)
