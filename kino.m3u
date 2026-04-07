@@ -22307,8 +22307,6 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 catchup="shift" catchup-days='1' group-title="GEORGIA",1TV Sport 
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GEORGIA",2 Radio
-https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="GEORGIA" tvg-logo="https://i.imgur.com/FJBL6zI.png",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA" tvg-logo="https://i.imgur.com/KuuODMM.png",Ertsulovneba
@@ -22329,8 +22327,6 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="GEORGIA", Setanta 2 HD GEO
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", RUSTAVI 2
-https://tbs01-edge07.itdc.ge/rustavi2hqnew/tracks-v1a1/mono.m3u8?token=_P72RUChv2f_f81qHgTGQfaFId58OW6TR02jyLE6BQvdb0axKv1FbYTZnzyAnzJGalxCkyb1mY9ymToQEd1FXrwJbDS-76gjXmXkUw3mwkIbteJCjpoNj2bCeyb5Xs_RsZP0Ofxuw0WNbCT6rkgWfagvtyUpxOKgBsYIMZaTtnpsQDOUm9stypbJDovO1_zQ5MbHRfFLbeALG21faSpBPIJrVj5Y1bLWac7LPhCt5s-qCnQuU2wPW7yME0kMiFt3sGJpBxdR-yFtEZeOR6v6mwerp1UGi4aLPQ3dBGdBVm5MoJljSgHyWMdHjiZHKpRf
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ფეხბურთი TV-Fexburti
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/032d92a6-2f92-4781-884f-d3f29c589b16/2.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="2" group-title="GEORGIA", რუსთავი 2
