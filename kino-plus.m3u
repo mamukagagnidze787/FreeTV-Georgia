@@ -109,8 +109,6 @@ http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJI
 http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQzMzg5NjQsImlhdCI6MTc3NDI1MjU2NCwiY2lkIjo2LCJ1aWQiOjEwMjM5MDc3NTAsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.0AuGXb1HB-dXQxqopx4IK8kzGcOTQ2MYhtmY2iWE488&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers-test-(VPN)" ,ТВ3
 http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQzMzg5NjQsImlhdCI6MTc3NDI1MjU2NCwiY2lkIjo2LCJ1aWQiOjEwMjM5MDc3NTAsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.0AuGXb1HB-dXQxqopx4IK8kzGcOTQ2MYhtmY2iWE488&offset=10
-
-
 #EXTINF:-1 group-title="Україна 🇺🇦"1+1 Україна
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 group-title="Україна 🇺🇦",2+2 HD
