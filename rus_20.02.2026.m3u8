@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz"
 #EXTINF:-1 group-title="Общие",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
