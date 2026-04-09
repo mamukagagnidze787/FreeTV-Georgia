@@ -29,4 +29,5 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" tvg-name="Kino 24" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="movies",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-EXTINF:-1 tvg-name="TV Pirveli" catchup="append" catchup-days="7" catchup-source="&offset=${offset}",TV Pirveli
+EXTINF:-1 tvg-name="ADJARASPORT" catchup="append" catchup-days="7" catchup-source="&offset=${offset}",ADJARASPORT
+https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
