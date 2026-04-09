@@ -1,4 +1,4 @@
-გ#EXTM3U url-tvg="https://itv.ge/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://itv.ge/epg/epg.xml.gz"
 #EXTINF:-1 catchup="shift" catchup-days='1' group-title="GEORGIA",1TV Sport 
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GEORGIA" tvg-logo="https://i.imgur.com/FJBL6zI.png",2TV (720p)
