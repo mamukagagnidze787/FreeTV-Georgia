@@ -23,3 +23,8 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="1" group-title="GEORGIA", ფეხბურთი TV-Fexburti
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/032d92a6-2f92-4781-884f-d3f29c589b16/2.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="movies",Kino 1
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="movies",Kino 1
+https://kino-1.catcast.tv/content/38617/index.m3u8
