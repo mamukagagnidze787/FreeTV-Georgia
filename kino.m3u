@@ -27,7 +27,5 @@ https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="movies",Kino 1
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="Zoo TV" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="Undefined",Zoo TV
-http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" tvg-name="Kino 24" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="movies",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
