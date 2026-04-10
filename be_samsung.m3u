@@ -7,3 +7,13 @@ https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playli
 https://odmedia-mojitv-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League (720p)
 https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10,
+http://example.com/segment1.ts
+#EXTINF:10,
+http://example.com/segment2.ts
+#EXTINF:10,
+http://example.com/segment3.ts
