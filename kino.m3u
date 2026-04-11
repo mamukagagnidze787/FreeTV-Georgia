@@ -55,3 +55,358 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="MOVIES",HOLLYWOOD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,http://epg.team/tvteam.3.1.xml"
+#EXTINF:0 tvg-name="GE: 1 Arkhi HD" tvg-logo="http://team.ga/images/chIcons/1593.png" tvg-rec="6", GE: 1 Arkhi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1593/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Wbep3W1e-VX40lRyZpfK82mXmHsaK1L-hO6LMGw-RYQ
+#EXTINF:0 tvg-name="GE: 1 Arkhi Sport HD" tvg-logo="http://team.ga/images/chIcons/2822.png" tvg-rec="3", GE: 1 Arkhi Sport HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2822/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RdaYmMnGg1W5VteL9IvhH1HGhsI-1lGy1h_FHCmURaO
+#EXTINF:0 tvg-name="GE: Rcheuli HD" tvg-logo="http://team.ga/images/chIcons/1201.png" tvg-rec="6", GE: Rcheuli HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1201/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9f95RQBdFPtdxp1n-_mdbeYEqkJZSd-cXhGt1Pkn20Kv
+#EXTINF:0 tvg-name="GE: Imedi" tvg-logo="http://team.ga/images/chIcons/1202.png" tvg-rec="6", GE: Imedi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1202/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Zn4IF1SR8scKo08umj_tYt8XYGEuc3Yr6YrFJvdBkJT
+#EXTINF:0 tvg-name="GE: Palitra News" tvg-logo="http://team.ga/images/chIcons/1208.png" tvg-rec="6", GE: Palitra News
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1208/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9X04LFzSQlqoHB2gmRgeHKwypAZMcbCHLQyFSrhZpfkW
+#EXTINF:0 tvg-name="GE: Rustavi 2" tvg-logo="http://team.ga/images/chIcons/1207.png" tvg-rec="6", GE: Rustavi 2
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1207/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9S5thbpSROnJwodDI2vjlL8-Cp6IyoniTu_6pHxbYsP9
+#EXTINF:0 tvg-name="GE: Maestro TV" tvg-logo="http://team.ga/images/chIcons/1204.png" tvg-rec="6", GE: Maestro TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1204/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9avIarB7hSxKJuwkBs4oL_cf7GWXZJaF4KQLwgcjcQwO
+#EXTINF:0 tvg-name="GE: Formula HD" tvg-logo="http://team.ga/images/chIcons/1211.png" tvg-rec="6", GE: Formula HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1211/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9SfuwLOvEjvC3BRuz-1jQIs-0vAWxndd72iJkUA4vPKU
+#EXTINF:0 tvg-name="GE: GDS" tvg-logo="http://team.ga/images/chIcons/1594.png" tvg-rec="6", GE: GDS
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1594/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UfDlk3Dvwx3IumACaXlp-d8aLorEUG2uyHywkIYv2m1
+#EXTINF:0 tvg-name="GE: Girchi TV HD" tvg-logo="http://team.ga/images/chIcons/1600.png" tvg-rec="6", GE: Girchi TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1600/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UT03BmMXEkuypIWy4sGB8jPsOssewtGcZJCA-jZKRBn
+#EXTINF:0 tvg-name="GE: Pos TV HD" tvg-logo="http://team.ga/images/chIcons/1601.png" tvg-rec="6", GE: Pos TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1601/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RWXXbprZCPeDpEIc5RkFcNg_se4SXpEhBRa64xMSEwe
+#EXTINF:0 tvg-name="GE: Positive TV" tvg-logo="http://team.ga/images/chIcons/2057.png" tvg-rec="0", GE: Positive TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2057/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9btbMePP9-9gM5SUfC1j3avg9Q0cDqiYWB6UawR-5tpd
+#EXTINF:0 tvg-name="GE: Ajara HD" tvg-logo="http://team.ga/images/chIcons/1205.png" tvg-rec="6", GE: Ajara HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1205/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9bBUmyBZKdE6tlm7kNKtwbPD3gE6JsnsxeOYyFVWDoBU
+#EXTINF:0 tvg-name="GE: TVC" tvg-logo="http://team.ga/images/chIcons/2240.png" tvg-rec="0", GE: TVC
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2240/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9XMIfuRlUXuVRUHMDUJpWm8O00PUtPBAzRwj3Ok5u2wB
+#EXTINF:0 tvg-name="GE: Home+ HD" tvg-logo="http://team.ga/images/chIcons/2389.png" tvg-rec="3", GE: Home+ HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2389/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZT60PcwqMfR43hn9I9MS0gy5EaBTE9aMpRqOQdYq0R7
+#EXTINF:0 tvg-name="GE: Planete+ HD" tvg-logo="http://team.ga/images/chIcons/2390.png" tvg-rec="3", GE: Planete+ HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2390/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9V3a0Cc_7i4sU_QNuZduN0SZxKoQqSAJx8oCqYR4esT1
+#EXTINF:0 tvg-name="GE: Comedie+ HD" tvg-logo="http://team.ga/images/chIcons/416.png" tvg-rec="3", GE: Comedie+ HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch416/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9XiiuMYTQMG8hD1fJAPq43ki7GVaneiKd8pRBGCE6LUv
+#EXTINF:0 tvg-name="GE: Kitchen+" tvg-logo="http://team.ga/images/chIcons/1583.png" tvg-rec="3", GE: Kitchen+
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1583/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YkX_jO3CNOwb0NzoQO2atLH2qlgCzcLeUBO8e3qd3p2
+#EXTINF:0 tvg-name="GE: Agrotv HD" tvg-logo="http://team.ga/images/chIcons/1615.png" tvg-rec="6", GE: Agrotv HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1615/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YAhocnYMzaQzWauu9tL3Dg388-4ipz4MNNzwhFrNhcl
+#EXTINF:0 tvg-name="GE: TV Zari" tvg-logo="http://team.ga/images/chIcons/2242.png" tvg-rec="0", GE: TV Zari
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2242/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Uv79SKpypt9fqapC7qqLWHZOa_RhrHlH9FBOlAhlOsv
+#EXTINF:0 tvg-name="GE: Batumi TV" tvg-logo="http://team.ga/images/chIcons/1602.png" tvg-rec="6", GE: Batumi TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1602/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9XXU7dqsCVWGS-Fe8dTFctGYG6FtfD3WY4gSygK_B9HF
+#EXTINF:0 tvg-name="GE: Batumi 2" tvg-logo="http://team.ga/images/chIcons/1610.png" tvg-rec="0", GE: Batumi 2
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1610/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9WNB4Pu5jpJ7Pnb1C0yr-gtzpCBx8s3mkvemDY0FOxIk
+#EXTINF:0 tvg-name="GE: BastiBuBu" tvg-logo="http://team.ga/images/chIcons/1590.png" tvg-rec="6", GE: BastiBuBu
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1590/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Ut0_IxV8qNaatxu8d2MMRCy46tFs8RdrP7L80K2644I
+#EXTINF:0 tvg-name="GE: BMG" tvg-logo="http://team.ga/images/chIcons/2241.png" tvg-rec="0", GE: BMG
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2241/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RC8vOs_WzOqZ8eLiEFI1Ddi1cjoUXWJ9unlU2RX9FUd
+#EXTINF:0 tvg-name="GE: Comedy Arkhi" tvg-logo="http://team.ga/images/chIcons/1588.png" tvg-rec="6", GE: Comedy Arkhi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1588/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZptNeuQITec8QBekeHaivVNCTgkFAjMnyaEOJ1Q04rR
+#EXTINF:0 tvg-name="GE: Channel Five" tvg-logo="http://team.ga/images/chIcons/2044.png" tvg-rec="6", GE: Channel Five
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2044/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9eS-3_rLz2IfKuoMojEbmtx3qjCh0riu2yhD8GSjwKvw
+#EXTINF:0 tvg-name="GE: Tanamgzavri TV" tvg-logo="http://team.ga/images/chIcons/2045.png" tvg-rec="6", GE: Tanamgzavri TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2045/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VEcK3Adp3qkg7iBndCVWgq02QBG7iWOJcCf4-XF40YS
+#EXTINF:0 tvg-name="GE: Dardimandi" tvg-logo="http://team.ga/images/chIcons/2040.png" tvg-rec="6", GE: Dardimandi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2040/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZCXEOlO2SAS45lIltkobMxPMvXt47BvukTzOX-jNrZj
+#EXTINF:0 tvg-name="GE: Dia TV" tvg-logo="http://team.ga/images/chIcons/2042.png" tvg-rec="0", GE: Dia TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2042/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UQPsH5bvx7VpXwkvni1hyqNIVyj3hDYC0YfRFv9_mWj
+#EXTINF:0 tvg-name="GE: EuroNews" tvg-logo="http://team.ga/images/chIcons/1612.png" tvg-rec="6", GE: EuroNews
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1612/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Ug-DpXMU1Teo1vvFHCUzB-oUaa6AilKV7n1z6xAHd5r
+#EXTINF:0 tvg-name="GE: Enkibenki" tvg-logo="http://team.ga/images/chIcons/1591.png" tvg-rec="6", GE: Enkibenki
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1591/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VXNv8vASiidWKaaXVeMmKUC6XmixhxSGhN5TJp-ULHT
+#EXTINF:0 tvg-name="GE: Ertsulovneba" tvg-logo="http://team.ga/images/chIcons/1595.png" tvg-rec="6", GE: Ertsulovneba
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1595/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9a5ZkSzkSL2pF9jl_fhQrnuqNtL7oJ7yWQtY-VqxLSGp
+#EXTINF:0 tvg-name="GE: Egrisi TV" tvg-logo="http://team.ga/images/chIcons/2047.png" tvg-rec="0", GE: Egrisi TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2047/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZzDXsytCTou6hMNeczz0f4tH0j0g-s8JvhHym3IU11q
+#EXTINF:0 tvg-name="GE: Guriatv HD" tvg-logo="http://team.ga/images/chIcons/1597.png" tvg-rec="6", GE: Guriatv HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1597/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZmfeKFXiEefH_jOHZl5c6DsPEsJuyjo5-_Afgobxo1I
+#EXTINF:0 tvg-name="GE: Georgian Times" tvg-logo="http://team.ga/images/chIcons/1616.png" tvg-rec="6", GE: Georgian Times
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1616/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9dEkWwoScTtXegouqJ2G0kDZYC_5kEJd71j_d4IYRjYV
+#EXTINF:0 tvg-name="GE: Gurjaani" tvg-logo="http://team.ga/images/chIcons/2051.png" tvg-rec="0", GE: Gurjaani
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2051/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Sn6Z86fydK5TUhaCRIVx5nT6fy-V4LWTM2gvh-L7G4l
+#EXTINF:0 tvg-name="GE: Kolkheti 89 TV" tvg-logo="http://team.ga/images/chIcons/2238.png" tvg-rec="0", GE: Kolkheti 89 TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2238/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9S3Ch7FAdrVV2VgQyess4TU7lzRSRRarSRrNsy8hng4S
+#EXTINF:0 tvg-name="GE: Tavisupali Arkhi HD" tvg-logo="http://team.ga/images/chIcons/2041.png" tvg-rec="6", GE: Tavisupali Arkhi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2041/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YHL8tUddinzz1r65c7-pXRzAb07TGlvV3S0VPPqIor-
+#EXTINF:0 tvg-name="GE: Kavkasia HD" tvg-logo="http://team.ga/images/chIcons/1596.png" tvg-rec="6", GE: Kavkasia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1596/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9eyS3niTcOhAyYwV0mzUZN-dY04ZrolxBdRCVW08AC6I
+#EXTINF:0 tvg-name="GE: Marneuli" tvg-logo="http://team.ga/images/chIcons/1203.png" tvg-rec="6", GE: Marneuli
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1203/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9amGY593sOUUZUEJf6hoLsMeTjNeirSFtte7wYg1O_5k
+#EXTINF:0 tvg-name="GE: Mega TV HD" tvg-logo="http://team.ga/images/chIcons/2048.png" tvg-rec="0", GE: Mega TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2048/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VPvZbaj6psnW2dv_cIt_GgaSyfaSUcYS_JrZ6U01gdk
+#EXTINF:0 tvg-name="GE: Marao" tvg-logo="http://team.ga/images/chIcons/1589.png" tvg-rec="6", GE: Marao
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1589/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9a30jGjvfMvSeww8gO52FrOMkjDQQWUd9v6G9lZdhj0Y
+#EXTINF:0 tvg-name="GE: MusicBox" tvg-logo="http://team.ga/images/chIcons/1599.png" tvg-rec="6", GE: MusicBox
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1599/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9T5VxZvaukqZJMlLBrZA7XoouTrJ1z0SY4JIaA5YwFOg
+#EXTINF:0 tvg-name="GE: Obieqtivi HD" tvg-logo="http://team.ga/images/chIcons/1212.png" tvg-rec="6", GE: Obieqtivi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1212/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Zvi5Uzluyz2FdOYLbdKuQB_C-fKdnIF-I_t2chJ7Map
+#EXTINF:0 tvg-name="GE: Odishi HD" tvg-logo="http://team.ga/images/chIcons/1611.png" tvg-rec="0", GE: Odishi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1611/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Tui9RUqh68gJ4aYuR65NKrfdOZ2Syl3grYZfsnlwDCK
+#EXTINF:0 tvg-name="GE: O2" tvg-logo="http://team.ga/images/chIcons/2046.png" tvg-rec="0", GE: O2
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2046/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YhhRAfOmk962UBoKHfnghmfIVwJfL3ZRGfZEaTTwVVs
+#EXTINF:0 tvg-name="GE: Pirveli HD" tvg-logo="http://team.ga/images/chIcons/1200.png" tvg-rec="6", GE: Pirveli HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1200/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Tdf5HFfxnID3WZOPrQDXHnlZNa6lX5vLnKcoextgx_m
+#EXTINF:0 tvg-name="GE: Parvana TV" tvg-logo="http://team.ga/images/chIcons/2059.png" tvg-rec="0", GE: Parvana TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2059/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9V_4bfDaBbu6Jtlu7HP3jmMQ5tOkkCUY-UO1MTNH4FEl
+#EXTINF:0 tvg-name="GE: Puls" tvg-logo="http://team.ga/images/chIcons/1598.png" tvg-rec="6", GE: Puls
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1598/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RFpexwI1xwBv7QJJ0BA2rQ9UFG9UG0UKEKtn9oEf4Q-
+#EXTINF:0 tvg-name="GE: Qartuli TV HD" tvg-logo="http://team.ga/images/chIcons/2039.png" tvg-rec="6", GE: Qartuli TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2039/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Vd4yI3kWt4cUXRlFzDvCClXczO5gg_eaQFIdrshs7p6
+#EXTINF:0 tvg-name="GE: Qartuli Arkhi" tvg-logo="http://team.ga/images/chIcons/2050.png" tvg-rec="0", GE: Qartuli Arkhi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2050/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9QthtOAShIMzTjYpzChE23e5Eotm9T9Sto9QlVKeZC0C
+#EXTINF:0 tvg-name="GE: Regbi TV" tvg-logo="http://team.ga/images/chIcons/1614.png" tvg-rec="6", GE: Regbi TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1614/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VvaB-PYzoLRnBLp8Q2dUYllDK_WXchedAKm-pX3vcnk
+#EXTINF:0 tvg-name="GE: Rioni HD" tvg-logo="http://team.ga/images/chIcons/2239.png" tvg-rec="0", GE: Rioni HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2239/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZmF9A9Av7_IHWfpS2y5659hS9De2uipxgq5L15f-CZ2
+#EXTINF:0 tvg-name="GE: Saperavi" tvg-logo="http://team.ga/images/chIcons/1213.png" tvg-rec="6", GE: Saperavi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1213/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Yw_sXfGH3cfJ6_4S54K8Gxc5aT7zg-E-pZEjkvI_Lnj
+#EXTINF:0 tvg-name="GE: Sezoni TV" tvg-logo="http://team.ga/images/chIcons/1609.png" tvg-rec="6", GE: Sezoni TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1609/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UDVtjMvu9kyRnWE5eUg5Gyj0vt8f1kDWQ1Fq3mg-bAp
+#EXTINF:0 tvg-name="GE: Setanta Sports 1 Georgia HD" tvg-logo="http://team.ga/images/chIcons/1199.png" tvg-rec="6", GE: Setanta Sports 1 Georgia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1199/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9fkAAbOJNU0zWlm3KxrLYCAr3tTFAJYMiSCfdh-7QX6M
+#EXTINF:0 tvg-name="GE: Setanta Sports 2 Georgia HD" tvg-logo="http://team.ga/images/chIcons/1206.png" tvg-rec="6", GE: Setanta Sports 2 Georgia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1206/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9URe388g8MBO_GAEYud-bh6UUOL6aE900pcdodA8TkmZ
+#EXTINF:0 tvg-name="GE: Setanta Sports 3 Georgia HD" tvg-logo="http://team.ga/images/chIcons/2060.png" tvg-rec="6", GE: Setanta Sports 3 Georgia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2060/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RI1Gx6zfNF1LJSL_d9KWhv9FNv2UZ5e5PsbXMvEivop
+#EXTINF:0 tvg-name="GE: Silk Universal HD" tvg-logo="http://team.ga/images/chIcons/1592.png" tvg-rec="6", GE: Silk Universal HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1592/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9dS75UkwgEjPRJLchpeNr7joRvzU_qSFAZcD4IM5duys
+#EXTINF:0 tvg-name="GE: Silk Documentary" tvg-logo="http://team.ga/images/chIcons/1620.png" tvg-rec="6", GE: Silk Documentary
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1620/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZyBMB0Zs6mT8aS4KNT1i9Czf-IQfaZgedx5DgkAhXwZ
+#EXTINF:0 tvg-name="GE: Silk Kino Collection" tvg-logo="http://team.ga/images/chIcons/1607.png" tvg-rec="6", GE: Silk Kino Collection
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1607/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9dZM7M0xq-us9YAdmVN9_XyGCJkXQFwIGMjO7zmSJTqt
+#EXTINF:0 tvg-name="GE: Silk Kids" tvg-logo="http://team.ga/images/chIcons/1606.png" tvg-rec="6", GE: Silk Kids
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1606/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VP9UJIANWMFFe-G9G7V2dvkyW8trH-EXMhfVQ1-3uVT
+#EXTINF:0 tvg-name="GE: Silk Kino Holiwood" tvg-logo="http://team.ga/images/chIcons/1608.png" tvg-rec="6", GE: Silk Kino Holiwood
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1608/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Y-iNQQOAFybjAa73d9XTRPKFq8ps8Z2mTTZp6PPnyZg
+#EXTINF:0 tvg-name="GE: Samefo Arkhi HD" tvg-logo="http://team.ga/images/chIcons/1613.png" tvg-rec="6", GE: Samefo Arkhi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1613/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9QIK4vlKeVbYEwIB95dnwBvz-wNMhiZhJussn_M0aCON
+#EXTINF:0 tvg-name="GE: Meteo24" tvg-logo="http://team.ga/images/chIcons/2052.png" tvg-rec="0", GE: Meteo24
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2052/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9bpnn_I17sCPNIHm8YluWYquAkwPbpSpjwIClcukiRYf
+#EXTINF:0 tvg-name="GE: Sdasu TV" tvg-logo="http://team.ga/images/chIcons/2049.png" tvg-rec="0", GE: Sdasu TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2049/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9WXH8BKRL22p1AIIab8VkQweDUgaKm34_nlY2lPpZxS2
+#EXTINF:0 tvg-name="GE: Stereo Plus" tvg-logo="http://team.ga/images/chIcons/2055.png" tvg-rec="0", GE: Stereo Plus
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2055/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UdLapjzKiyylaSTAX_Rs4peB-3PDBP8WIiKNlvU2pny
+#EXTINF:0 tvg-name="GE: BeyoncePlus HD" tvg-logo="http://team.ga/images/chIcons/1209.png" tvg-rec="3", GE: BeyoncePlus HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1209/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9VUAOUioDEQ9z50kCd09CZyYwX57bGIO9cGbO5BV8BG_
+#EXTINF:0 tvg-name="GE: Trialeti" tvg-logo="http://team.ga/images/chIcons/1198.png" tvg-rec="6", GE: Trialeti
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1198/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9R7RY-CDuTTq2SgmAwZfYNBr6MVR-g9h2yMEQ0oLWNas
+#EXTINF:0 tvg-name="GE: TV25" tvg-logo="http://team.ga/images/chIcons/1210.png" tvg-rec="6", GE: TV25
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1210/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZdnWadDWKmyrGZfV7Rd1vwZjiK6u6zK3DeNzNqIvvLH
+#EXTINF:0 tvg-name="GE: TV Monitoringi" tvg-logo="http://team.ga/images/chIcons/2038.png" tvg-rec="6", GE: TV Monitoringi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2038/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9alOxwa4n7QG0GwP5DJA462C65He7EEYqTl_hQjjquRT
+#EXTINF:0 tvg-name="GE: TokTV" tvg-logo="http://team.ga/images/chIcons/2043.png" tvg-rec="6", GE: TokTV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2043/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Wfkf2XN24HdjQMYv8m-kZpax1By2O7dXzG4_a76ZAMw
+#EXTINF:0 tvg-name="GE: TV 12" tvg-logo="http://team.ga/images/chIcons/2056.png" tvg-rec="0", GE: TV 12
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2056/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RbLqfmJngsc76oHbYtrMdPHURumV3O-fDkdaGvI3iOA
+#EXTINF:0 tvg-name="GE: AR TV" tvg-logo="http://team.ga/images/chIcons/2058.png" tvg-rec="0", GE: AR TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2058/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9T8KZuK-WN9gcCyRwhH96zf5YOEPF8Vi2Jza_ZumdFmX
+#EXTINF:0 tvg-name="GE: Digi+ Music 4K" tvg-logo="http://team.ga/images/chIcons/2326.png" tvg-rec="3", GE: Digi+ Music 4K
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2326/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Tc50VDk8JkTcDeo9vZwtw6_5lFhotoE8TFtwYokrv6i
+#EXTINF:0 tvg-name="GE: Christmas + HD" tvg-logo="http://team.ga/images/chIcons/2329.png" tvg-rec="3", GE: Christmas + HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2329/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9b1zxQo40iTEmHDYLtANlugO_-9iCiIK45Od_-QmtNtT
+#EXTINF:0 tvg-name="GE: Argo TV HD" tvg-logo="http://team.ga/images/chIcons/2820.png" tvg-rec="0", GE: Argo TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2820/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YyInzowzWlaYB4qkhDmlaORMexhZtlSIgzc2ecokRIr
+#EXTINF:0 tvg-name="GE: Akhali Formula HD" tvg-logo="http://team.ga/images/chIcons/2816.png" tvg-rec="0", GE: Akhali Formula HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2816/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9eOvg2yRWSABYTs7iTzVtKrpfAaZIZQrrv_XcbizkE1k
+#EXTINF:0 tvg-name="GE: Imervizia HD" tvg-logo="http://team.ga/images/chIcons/2819.png" tvg-rec="0", GE: Imervizia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2819/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9eW-0U-7xu1vKAfssUkXcj06UACA0OhXyl34WM6a0YvU
+#EXTINF:0 tvg-name="GE: Mall TV" tvg-logo="http://team.ga/images/chIcons/2821.png" tvg-rec="0", GE: Mall TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2821/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9W7CYALWkr1oSktsHjQzyx2JwxUeMomhKV2yK-ztrakQ
+#EXTINF:0 tvg-name="GE: Parlament TV" tvg-logo="http://team.ga/images/chIcons/2823.png" tvg-rec="0", GE: Parlament TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2823/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZefoNpnNVrsuTx5xvqcVzOLA8YPm0lsg493KeuReRKU
+#EXTINF:0 tvg-name="GE: Starvision TV HD" tvg-logo="http://team.ga/images/chIcons/2815.png" tvg-rec="0", GE: Starvision TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2815/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9c-wfu_tFo3w4t4vxLUW2wAKF6wlSUMrmV4W2AUsmdjh
+#EXTINF:0 tvg-name="GE: Sfero TV HD" tvg-logo="http://team.ga/images/chIcons/2818.png" tvg-rec="0", GE: Sfero TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2818/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZM621RXj6uoByvH2gj4Xdr3R195iZSkU6uXffhP4Dry
+#EXTINF:0 tvg-name="GE: TV4" tvg-logo="http://team.ga/images/chIcons/2037.png" tvg-rec="6", GE: TV4
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2037/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YtlsmPTlOYacwI7ZQJq4SO8Xy0Van1H51Ai4ElcbOxs
+#EXTINF:0 tvg-name="GE: Chveni Arkhi" tvg-logo="http://team.ga/images/chIcons/2817.png" tvg-rec="0", GE: Chveni Arkhi
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch2817/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UYB6ktfyFwV8anXNvuCSI19gXNtmXygSjdc6LSbMfzE
+#EXTINF:0 tvg-name="GE: GMS TV" tvg-logo="http://team.ga/images/chIcons/3183.png" tvg-rec="0", GE: GMS TV
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch3183/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9XDOymSotOdYgRjSDL_Oxagvrzl-HavleT1ee6vcFhXg
+#EXTINF:0 tvg-name="GE: Konservatorebi HD" tvg-logo="http://team.ga/images/chIcons/1697.png" tvg-rec="0", GE: Konservatorebi HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch1697/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9emc-Yls-kx5aMlRS0icsyZDw1Nwu2_kbnhT8tQ8ocbp
+#EXTINF:0 tvg-name="GE: Liberty TV HD" tvg-logo="http://team.ga/images/chIcons/3186.png" tvg-rec="0", GE: Liberty TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch3186/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9cXDuRQ3fcUNpuhDbJnf7UFcdx3ViocyRsr0fL77_jZf
+#EXTINF:0 tvg-name="GE: Viva Georgia HD" tvg-logo="http://team.ga/images/chIcons/3184.png" tvg-rec="0", GE: Viva Georgia HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch3184/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9WRSuUcABw9x6430HTtbjbDnRjlE6r67jTzhVJW8B4we
+#EXTINF:0 tvg-name="GE: Wedding TV HD" tvg-logo="http://team.ga/images/chIcons/3185.png" tvg-rec="0", GE: Wedding TV HD
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch3185/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9SfHkrxYxmp9zf3RyuVbupAZC-z8dSCKs0wvLjGkVwtp
+#EXTINF:0 tvg-name="GE: Mecxre Talga" tvg-logo="http://team.ga/images/chIcons/3308.png" tvg-rec="0", GE: Mecxre Talga
+#EXTGRP:ქართული HD
+http://12.team.ga:80/ch3308/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9bW3U5KBRUJWAQq8SBh5fBnHbBHdLj6MDGbskKX4K1wk
+#EXTINF:0 tvg-name="GE: Digi+ HD" tvg-logo="http://team.ga/images/chIcons/2317.png" tvg-rec="3", GE: Digi+ HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2317/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9XUHbdM_erqIFKzlVMvlyQeBsXvGv_HyxgUbZ0gganVx
+#EXTINF:0 tvg-name="GE: Digi+ Premiere HD" tvg-logo="http://team.ga/images/chIcons/2321.png" tvg-rec="3", GE: Digi+ Premiere HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2321/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9WIa1I2DkYpAWGwOyhyUATYxST_Czw1LlNaWCCmI16Eo
+#EXTINF:0 tvg-name="GE: Digi+ Family HD" tvg-logo="http://team.ga/images/chIcons/2315.png" tvg-rec="3", GE: Digi+ Family HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2315/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9TNDBWrzoR8p8Sfov-ubVhkoIrOcoIJsaDqlIPyeAu4W
+#EXTINF:0 tvg-name="GE: Digi+ Cinema HD" tvg-logo="http://team.ga/images/chIcons/2316.png" tvg-rec="3", GE: Digi+ Cinema HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2316/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9cuCSTWWsBerDq1VKESSRKsn_jGOiD-9UQz_CorLcSHz
+#EXTINF:0 tvg-name="GE: Digi+ Action HD" tvg-logo="http://team.ga/images/chIcons/2318.png" tvg-rec="3", GE: Digi+ Action HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2318/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9TUPgmKfI057kLrDjlv6jjZOTrIMIg2phXM893_ELtqn
+#EXTINF:0 tvg-name="GE: Digi+ Drama HD" tvg-logo="http://team.ga/images/chIcons/2319.png" tvg-rec="3", GE: Digi+ Drama HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2319/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UE4P3m-lLt2AOrYxsoedhg7aut1vNGVwUBMQ8dCgJFg
+#EXTINF:0 tvg-name="GE: Digi+ Comedy HD" tvg-logo="http://team.ga/images/chIcons/2322.png" tvg-rec="3", GE: Digi+ Comedy HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2322/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZxwDCKXvmSDh_7e525se02ZPN6-z6pfpfvJbxUW1O2h
+#EXTINF:0 tvg-name="GE: Digi+ Kids HD" tvg-logo="http://team.ga/images/chIcons/2324.png" tvg-rec="3", GE: Digi+ Kids HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2324/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9cmQtVYrCeo0rSBNOUH0kN0MHoaLthBigXSQvnECHGtf
+#EXTINF:0 tvg-name="GE: Digi+ Documentary HD" tvg-logo="http://team.ga/images/chIcons/1493.png" tvg-rec="3", GE: Digi+ Documentary HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch1493/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9T6NcDJagVT9rRG9jNzlNB5dh7Q_jfbkn5DLFWGr1rxp
+#EXTINF:0 tvg-name="GE: Digi+ Horror HD" tvg-logo="http://team.ga/images/chIcons/2320.png" tvg-rec="3", GE: Digi+ Horror HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2320/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9b95lbaNDnN9y150Mtp143BcrexGojVsQDUUh6_bX2lw
+#EXTINF:0 tvg-name="GE: DIGI+ Series HD" tvg-logo="http://team.ga/images/chIcons/2323.png" tvg-rec="3", GE: DIGI+ Series HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2323/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ecG8qBf_rzTsdBakBVdI5YrKRLYyKzRPpVo7ZW2sF7i
+#EXTINF:0 tvg-name="GE: Digi+ 4K" tvg-logo="http://team.ga/images/chIcons/2327.png" tvg-rec="3", GE: Digi+ 4K
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2327/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Z5MbZ1_62HrTOZ45TXvF0eXr5th3eBFELRTiI6vNwv5
+#EXTINF:0 tvg-name="GE: Digi + 4K 2" tvg-logo="http://team.ga/images/chIcons/2328.png" tvg-rec="3", GE: Digi + 4K 2
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2328/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9aRWAfcmZ1FnVQQWiUq6ZUe_ZwrG8_AH7PgH8rgXX8Mu
+#EXTINF:0 tvg-name="GE: Digi+ Music HD" tvg-logo="http://team.ga/images/chIcons/2325.png" tvg-rec="3", GE: Digi+ Music HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2325/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9QPPADGtb2AcqtT3DVM-Rp9Deb7vOgCe0Nhg4-1AR_fY
+#EXTINF:0 tvg-name="GE: Digi+ City HD" tvg-logo="http://team.ga/images/chIcons/387.png" tvg-rec="3", GE: Digi+ City HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch387/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9ZiGxixs8jKKeKjznYrA0bzeL_RcDEtAp-Tj-2rLKI13
+#EXTINF:0 tvg-name="GE: Digi+ Hits HD" tvg-logo="http://team.ga/images/chIcons/389.png" tvg-rec="3", GE: Digi+ Hits HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch389/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9fXvp3YRieJpQooJ81uB5yZ-RPy3L6pzTdXlwWVS3k1f
+#EXTINF:0 tvg-name="Digi+ Georgian HD" tvg-logo="http://team.ga/images/chIcons/2814.png" tvg-rec="3", Digi+ Georgian HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2814/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YS-Lr1hCMcluBKB6HBHY68A7WTyZtnFOSFqO_ecF7UK
+#EXTINF:0 tvg-name="GE: CINE+ Ocs HD" tvg-logo="http://team.ga/images/chIcons/3102.png" tvg-rec="3", GE: CINE+ Ocs HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3102/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9fwH1tzUMCmXe_cm8kXlt7-1M8uyqU-Nq00OZgx-gXoI
+#EXTINF:0 tvg-name="GE: CINE+ Frisson HD" tvg-logo="http://team.ga/images/chIcons/3103.png" tvg-rec="3", GE: CINE+ Frisson HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3103/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9SBEhpwypNAHnXxe_54IWXWwhvLVKdFtz1aiy4g45R9o
+#EXTINF:0 tvg-name="GE: CINE+ Emotion HD" tvg-logo="http://team.ga/images/chIcons/3104.png" tvg-rec="3", GE: CINE+ Emotion HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3104/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9YkomQ0fa16dW2t_FYuwJbVzIEdSYtKBnvGzllYSwGLT
+#EXTINF:0 tvg-name="GE: CINE+ Family HD" tvg-logo="http://team.ga/images/chIcons/3105.png" tvg-rec="3", GE: CINE+ Family HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3105/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9WN_RCVJXmgKjzthRvszGvlOjTtt5SxNZvRvLmoGx0te
+#EXTINF:0 tvg-name="GE: CINE+ Festival HD" tvg-logo="http://team.ga/images/chIcons/3106.png" tvg-rec="3", GE: CINE+ Festival HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3106/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9fsy-TUg4TbVxNC3_4b9XweaYm-7I_F9qxB1yvthixy-
+#EXTINF:0 tvg-name="GE: CINE+ Classic HD" tvg-logo="http://team.ga/images/chIcons/3107.png" tvg-rec="3", GE: CINE+ Classic HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch3107/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9bd4qlRa65r7n4FzRLZ2mQkXkl4bmp85VOu2OEGh0O9X
+#EXTINF:0 tvg-name="Digi+ Play 1 HD" tvg-logo="http://team.ga/images/chIcons/2850.png" tvg-rec="3", Digi+ Play 1 HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2850/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UtImenhasp0TI8xv8FFE63kvDMu-trkKveEidN3TFfb
+#EXTINF:0 tvg-name="Digi+ Play 2 HD" tvg-logo="http://team.ga/images/chIcons/2851.png" tvg-rec="3", Digi+ Play 2 HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2851/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UZ7FxL2TuBiPiaoICnKyWh0OwdDF-M9mkAMVzvzoUya
+#EXTINF:0 tvg-name="Digi+ Play 3 HD" tvg-logo="http://team.ga/images/chIcons/2852.png" tvg-rec="3", Digi+ Play 3 HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2852/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RKIzSS8cpkF94dQrb4XLTpNed78Y5QMJjlwZCoA_-9b
+#EXTINF:0 tvg-name="Digi+ Play 4 HD" tvg-logo="http://team.ga/images/chIcons/2853.png" tvg-rec="3", Digi+ Play 4 HD
+#EXTGRP:ქართული გახმოვანება
+http://12.team.ga:80/ch2853/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9T-zcV-4VO4nLBeP1n2kmJAS-pztoUJB6nagTMSqh0Zv
