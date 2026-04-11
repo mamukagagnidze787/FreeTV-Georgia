@@ -61,9 +61,6 @@ http://12.team.ga:80/ch1593/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Wbep3W1e-VX
 #EXTINF:0 tvg-name="GE: 1 Arkhi Sport HD" tvg-logo="http://team.ga/images/chIcons/2822.png" tvg-rec="3", GE: 1 Arkhi Sport HD
 #EXTGRP:ქართული HD
 http://12.team.ga:80/ch2822/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RdaYmMnGg1W5VteL9IvhH1HGhsI-1lGy1h_FHCmURaO
-#EXTINF:0 tvg-name="GE: Rcheuli HD" tvg-logo="http://team.ga/images/chIcons/1201.png" tvg-rec="6", GE: Rcheuli HD
-#EXTGRP:ქართული HD
-http://12.team.ga:80/ch1201/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9f95RQBdFPtdxp1n-_mdbeYEqkJZSd-cXhGt1Pkn20Kv
 #EXTINF:0 tvg-name="GE: Imedi" tvg-logo="http://team.ga/images/chIcons/1202.png" tvg-rec="6", GE: Imedi
 #EXTGRP:ქართული HD
 http://12.team.ga:80/ch1202/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9Zn4IF1SR8scKo08umj_tYt8XYGEuc3Yr6YrFJvdBkJT
