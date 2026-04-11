@@ -397,15 +397,4 @@ http://12.team.ga:80/ch3106/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9fsy-TUg4TbV
 #EXTINF:0 tvg-name="GE: CINE+ Classic HD" tvg-logo="http://team.ga/images/chIcons/3107.png" tvg-rec="3", GE: CINE+ Classic HD
 #EXTGRP:ქართული გახმოვანება
 http://12.team.ga:80/ch3107/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9bd4qlRa65r7n4FzRLZ2mQkXkl4bmp85VOu2OEGh0O9X
-#EXTINF:0 tvg-name="Digi+ Play 1 HD" tvg-logo="http://team.ga/images/chIcons/2850.png" tvg-rec="3", Digi+ Play 1 HD
-#EXTGRP:ქართული გახმოვანება
-http://12.team.ga:80/ch2850/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UtImenhasp0TI8xv8FFE63kvDMu-trkKveEidN3TFfb
-#EXTINF:0 tvg-name="Digi+ Play 2 HD" tvg-logo="http://team.ga/images/chIcons/2851.png" tvg-rec="3", Digi+ Play 2 HD
-#EXTGRP:ქართული გახმოვანება
-http://12.team.ga:80/ch2851/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9UZ7FxL2TuBiPiaoICnKyWh0OwdDF-M9mkAMVzvzoUya
-#EXTINF:0 tvg-name="Digi+ Play 3 HD" tvg-logo="http://team.ga/images/chIcons/2852.png" tvg-rec="3", Digi+ Play 3 HD
-#EXTGRP:ქართული გახმოვანება
-http://12.team.ga:80/ch2852/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9RKIzSS8cpkF94dQrb4XLTpNed78Y5QMJjlwZCoA_-9b
-#EXTINF:0 tvg-name="Digi+ Play 4 HD" tvg-logo="http://team.ga/images/chIcons/2853.png" tvg-rec="3", Digi+ Play 4 HD
-#EXTGRP:ქართული გახმოვანება
-http://12.team.ga:80/ch2853/mono.m3u8?token=359.3o2EupQY7NzaXgB_CQjT9T-zcV-4VO4nLBeP1n2kmJAS-pztoUJB6nagTMSqh0Zv
+
