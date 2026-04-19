@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1,🛠Ревизия №-1 🚦17.04.2026|06-50|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-
-
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мега
@@ -245,7 +243,6 @@ http://178.134.1.158:8081/nauka/index.m3u8
 http://tinyurl.com/ideooleg/239.195.5.33:1234
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
 http://178.124.153.123:44400/rtg
-
 #EXTINF:-1 group-title="ОБИТ" ,Viasat Explore
 http://37.46.49.14:18010/play/a02e/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,Viasat History
@@ -258,8 +255,6 @@ http://37.46.49.14:18010/play/a09k/index.m3u8
 http://37.46.49.14:18010/play/a02u/index.m3u8
 #EXTINF:-1 group-title="ОБИТ" ,Тайны Галактики
 http://37.46.49.14:18010/play/a067/index.m3u8
-
-
 #EXTINF:-1 group-title="Uplink",Точка отрыва
 https://fs.uplink.kz/tochka_otriva/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Uplink",Моя планета
