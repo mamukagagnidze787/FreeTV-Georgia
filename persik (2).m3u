@@ -139,19 +139,19 @@ https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
 https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
 #EXTINF:-1 ,Sluhay.by RADIO HD
 https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
-#EXTINF:-1 ,Sluhay.by RAP HD
+#EXTINF:-1 group-title="Sluhay.by RAP HD",
 https://fs2.persik.by/Sluhay_RAP/index.m3u8
-#EXTINF:-1 ,Sluhay Rock HD
+#EXTINF:-1 group-title="Sluhay Rock HD",
 https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ТЕХНО
+#EXTINF:-1 group-title="ТЕХНО",
 https://fs2.persik.by/Techno3/index.m3u8
-#EXTINF:-1 ,Synthwave HD
+#EXTINF:-1 group-title="Synthwave HD",
 http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 ,КОСМОС
+#EXTINF:-1 group-title="КОСМОС",
 http://fs2.persik.by/Kosmo5/index.m3u8
-#EXTINF:-1 ,ДОКУМЕНТАЛЬНОЕ КИНО
+#EXTINF:-1 group-title="ДОКУМЕНТАЛЬНОЕ КИНО",
 http://fs2.persik.by/DokumentalnoeKino3/index.m3u8
-#EXTINF:-1 ,ДОКУМЕНТАЛЬНОЕ
+#EXTINF:-1 group-title="ДОКУМЕНТАЛЬНОЕ",
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 ,MOVIE HD
+#EXTINF:-1 group-title="MOVIE HD",
 http://fs2.persik.by/Movie2/index.m3u8
