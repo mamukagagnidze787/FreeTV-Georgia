@@ -1,4 +1,52 @@
 #EXTM3U
 #EXTINF:-1,--- საუკეთესო ფილმების ბაზა ---
 https://smart-tv-home.ru/all.m3u
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro351770841184&password=ee419c0f4344&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro8381773246698&password=5b43c07feb04&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro3601767464676&password=4cb339c6bdb5&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro8811770294213&password=d3e47b23b0fc&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro5581772812602&password=8bdca4cb5456&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro1041767621878&password=101449f75314&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro9351774284141&password=c863e94f6b43&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro7021773571147&password=060d8990c29b&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro9101770335890&password=38f27e3fed7a&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro9741767146907&password=6e6e0c1819cf&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus"
+http://81.31.194.66:8080/get.php?username=pro2171772999280&password=3eaff557e6b3&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro781773144493&password=9dc389696652&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro9781768667589&password=70906e16ceb2&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro7391767146941&password=2e94335e6062&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro6041767188232&password=02c0a1382015&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro6971766432299&password=7a6897fd93cc&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus=", 
+http://81.31.194.66:8080/get.php?username=pro4351772007696&password=4d84afe1cf40&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro5231768044551&password=2826ebaacdee&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro6331771667726&password=b6a3f6cf49f5&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro9501767190522&password=10154edf7ac6&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro3321771602465&password=c351d62b2adf&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro2511773580380&password=ef0b4de32a1a&type=m3u_plus
+#EXTINF:-1 group-title="kino-plus",
+http://81.31.194.66:8080/get.php?username=pro5531773519263&password=20f5528d016e&type=m3u_plus
 
+http://81.31.194.66:8080/get.php?username=pro241772294015&password=cefc056bb2ed&type=m3u_plus
