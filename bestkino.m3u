@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1,--- საუკეთესო ფილმების ბაზა ---
 https://smart-tv-home.ru/all.m3u
+kino-plus", 
+http://81.31.194.66:8080/get.php?username=pro5581772812602&password=8bdca4cb5456&type=m3u_plus
 #EXTINF:-1 group-title="kino-plus", 
+http://81.31.194.66:8080/get.php?username#EXTINF:-1 group-title="kino-plus", 
 http://81.31.194.66:8080/get.php?username=pro351770841184&password=ee419c0f4344&type=m3u_plus
 #EXTINF:-1 group-title="kino-plus", 
 http://81.31.194.66:8080/get.php?username=pro8381773246698&password=5b43c07feb04&type=m3u_plus
@@ -9,10 +12,7 @@ http://81.31.194.66:8080/get.php?username=pro8381773246698&password=5b43c07feb04
 http://81.31.194.66:8080/get.php?username=pro3601767464676&password=4cb339c6bdb5&type=m3u_plus
 #EXTINF:-1 group-title="kino-plus", 
 http://81.31.194.66:8080/get.php?username=pro8811770294213&password=d3e47b23b0fc&type=m3u_plus
-#EXTINF:-1 group-title="kino-plus", 
-http://81.31.194.66:8080/get.php?username=pro5581772812602&password=8bdca4cb5456&type=m3u_plus
-#EXTINF:-1 group-title="kino-plus", 
-http://81.31.194.66:8080/get.php?username=pro1041767621878&password=101449f75314&type=m3u_plus
+#EXTINF:-1 group-title="=pro1041767621878&password=101449f75314&type=m3u_plus
 #EXTINF:-1 group-title="kino-plus", 
 http://81.31.194.66:8080/get.php?username=pro9351774284141&password=c863e94f6b43&type=m3u_plus
 #EXTINF:-1 group-title="kino-plus", 
