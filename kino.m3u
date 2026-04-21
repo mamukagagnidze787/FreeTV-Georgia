@@ -5860,3 +5860,5 @@ https://www.dropbox.com/scl/fi/in7nhwvla7xrabooo69re/AQNj58-synrPcaBIM2oR5r8J9KE
 http://stream-server.com:8080/live/username/password/12345.ts
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://logo.url/cnn.png" group-title="News",CNN International
 http://stream-server.com:8080/live/username/password/12346.ts
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="movies;series",Amedia Premium
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
