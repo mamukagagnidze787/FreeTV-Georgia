@@ -5862,3 +5862,13 @@ http://stream-server.com:8080/live/username/password/12345.ts
 http://stream-server.com:8080/live/username/password/12346.ts
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="movies;series",Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1,Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1,Rustavi 2
+https://tv.cdn.xsg.ge/rustavi2hd/index.m3u8
+#EXTINF:-1,Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1,First Channel (1TV)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1,Pos TV
+https://live.postv.media/stream/index.m3u8
