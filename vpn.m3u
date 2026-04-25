@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1,🛠Ревизия №-2🚦26.03.2026|10-20|👍iptv.org.ua|tva.org.ua|tva.in.ua|fas-tv.com|mater.com.ua💰
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 group-title="Каналы с VPN", TV1000 HD
@@ -267,8 +267,6 @@ http://kinowalk.hopto.org/serialtv_live
 http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 group-title="Кинозалы (VPN)", Мультфильмы 24/7
 http://kinowalk.hopto.org/mezontrop_live
-
-
 #EXTINF:-1 group-title="Tube (VPN)",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_zWDufDGRenezSm6E8ANzA&e=2069025307&scheme=https
@@ -311,8 +309,6 @@ https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Oo
 #EXTINF:-1 group-title="Tube (VPN)",Продвижение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=pZQ-ml5KifkMWpZkeNj0Eg&e=2073086107&scheme=https
-
-
 #EXTINF:-1 group-title="Цитадель(VPN)",ТНТ HD
 http://tv.ttk.mx:9128
 #EXTINF:-1 group-title="Цитадель(VPN)",ТНТ
