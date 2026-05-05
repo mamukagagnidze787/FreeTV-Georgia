@@ -2,24 +2,57 @@
 <html lang="ka">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GIGRA! - ჩემი კინოთეატრი</title>
     <style>
-        body { background-color: #1a1a1a; color: white; text-align: center; font-family: sans-serif; }
-        .video-container { margin-top: 50px; }
-        video { max-width: 800px; width: 100%; border: 5px solid #444; border-radius: 12px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5); }
+        body {
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .video-container {
+            max-width: 800px;
+            margin: 20px auto;
+            border: 5px solid #444;
+            border-radius: 12px;
+            overflow: hidden;
+            background: black;
+        }
+        video {
+            width: 100%;
+            display: block;
+        }
+        h1 { color: #8e44ad; }
+        h3 { color: #a29bfe; margin-top: 30px; }
+        hr { border: 1px solid #333; margin: 40px 0; }
     </style>
 </head>
 <body>
-    <h1>მოგესალმებით მამუკას კინოთეატრში! 🎬</h1>
-    <p>GIGRA!-ს სპეც-პროექტი</p>
 
+    <h1>მოგესალმებით ჩემს ციფრულ კინოთეატრში</h1>
+    <p>GIGRA! - ადგილი, სადაც მოგონებები ცოცხლდება</p>
+
+    <h3>📽️ სერია პირველი: დასაწყისი</h3>
     <div class="video-container">
         <video controls>
-            <source src="https://www.dropbox.com/scl/fi/7yw7v4tcc04519x3avziv/_10.mp4?rlkey=cn3wl64i1xacjgk6adsvcro67&raw=1" type="video/mp4">
+            <source src="https://www.dropbox.com/scl/fi/f0iic89r4bswj875p0msc/_10.mp4?rlkey=v6l6h78n42f7j230m9pwa645g&raw=1" type="video/mp4">
             თქვენს ბრაუზერს არ აქვს ვიდეოს მხარდაჭერა.
         </video>
     </div>
 
-    <p>ისიამოვნეთ ყურებით!</p>
+    <hr>
+
+    <h3>🎞️ სერია მეორე: მოგონებების ფირი</h3>
+    <div class="video-container">
+        <video controls>
+            <source src="https://www.dropbox.com/scl/fi/alr1k0n2nnl879khftai7/video1.mp4-1.mp4?rlkey=12fmgz3jm6fmo5gzfmrcouxo5&raw=1" type="video/mp4">
+            თქვენს ბრაუზერს არ აქვს ვიდეოს მხარდაჭერა.
+        </video>
+    </div>
+
+    <p style="margin-top: 50px; color: #777;">ისიამოვნეთ ყურებით! გაგრძელება იქნება...</p>
+
 </body>
 </html>
