@@ -1,1 +1,8 @@
 
+    <div class="video-block">
+        <h3>📽️ მეორე ვიდეო</h3>
+        <video controls playsinline preload="auto">
+            <source src="video2.mp4" type="video/mp4">
+            თქვენს ბრაუზერს არ აქვს მხარდაჭერა.
+        </video>
+    </div>
