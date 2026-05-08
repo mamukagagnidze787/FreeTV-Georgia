@@ -1,38 +1,82 @@
+
 <!DOCTYPE html>
 <html lang="ka">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIGRA - კინოთეატრი</title>
+    <title>GIGRA - ციფრული კინოთეატრი</title>
     <style>
-        body { background-color: #121212; color: #e0e0e0; font-family: sans-serif; text-align: center; padding: 20px; }
-        h1 { color: #bb86fc; text-shadow: 2px 2px 4px #000; }
-        .video-block { margin-bottom: 40px; background: #1e1e1e; padding: 15px; border-radius: 15px; border: 1px solid #333; box-shadow: 0 4px 10px rgba(0,0,0,0.5); }
-        video { width: 100%; max-width: 700px; border-radius: 10px; background: #000; }
+        body {
+            background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);
+            color: #e0e0e0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            color: #bb86fc;
+            text-shadow: 2px 4px 10px rgba(0,0,0,0.5);
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+        }
+        .video-block {
+            margin-bottom: 50px;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        h3 {
+            color: #03dac6;
+            margin-top: 0;
+            border-left: 4px solid #bb86fc;
+            padding-left: 10px;
+        }
+        video {
+            width: 100%;
+            border-radius: 10px;
+            outline: none;
+        }
+        .footer {
+            margin-top: 30px;
+            font-style: italic;
+            opacity: 0.7;
+        }
     </style>
 </head>
 <body>
 
-     <h1>🎬 მოგესალმებით ჩემს ციფრულ კინოთეატრში</h1>
-    <p>GIGRA! - ადგილი, სადაც მოგონებები ცოცხლდება</p>
+    <div class="container">
+        <h1>🎬 მოგესალმებით GIGRA-ში</h1>
+        <p style="text-align:center;">ადგილი, სადაც მოგონებები ცოცხლდება</p>
 
-    <div class="video-block">
-        <h3>📽️ ჩემი ვიდეო</h3>
-        <video controls playsinline>
-            <source src="20210315_112917-1.mp4" type="video/mp4">
-            თქვენს ბრაუზერს არ აქვს მხარდაჭერა.
-        </video>
+        <div class="video-block">
+            <h3>📽️ პირველი დარბაზი</h3>
+            <video controls playsinline preload="metadata">
+                <source src="20210315_112917-1.mp4" type="video/mp4">
+                თქვენს ბრაუზერს არ აქვს მხარდაჭერა.
+            </video>
+        </div>
+
+        <div class="video-block">
+            <h3>📽️ მეორე დარბაზი</h3>
+            <video controls playsinline preload="metadata">
+                <source src="video2.mp4" type="video/mp4">
+                თქვენს ბრაუზერს არ აქვს მხარდაჭერა.
+            </video>
+        </div>
+
+        <div class="footer">
+            <p>ისიამოვნეთ ყურებით! © 2026</p>
+        </div>
     </div>
-
-    <div class="video-block">
-        <h3>📽️ მეორე ვიდეო</h3>
-        <video controls playsinline preload="auto">
-            <source src="video2.mp4" type="video/mp4">
-            თქვენს ბრაუზერს არ აქვს მხარდაჭერა.
-        </video>
-    </div>
-
-    <p>ისიამოვნეთ ყურებით!</p>
 
 </body>
 </html>
