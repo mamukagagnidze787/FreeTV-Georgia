@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIGRA - პირადი კინოთეატრი</title>
+    <title>GIGRA - კინოთეატრი</title>
     <style>
         body {
-            background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);
+            background: #121212;
             color: #e0e0e0;
             font-family: 'Segoe UI', sans-serif;
             margin: 0;
@@ -15,60 +15,49 @@
             flex-direction: column;
             align-items: center;
         }
-        h1 { color: #bb86fc; text-align: center; text-shadow: 2px 4px 10px rgba(0,0,0,0.5); }
-        .container { max-width: 800px; width: 100%; }
+        .container { max-width: 900px; width: 100%; }
+        h1 { color: #bb86fc; text-align: center; font-size: 2.5em; }
         
         .alert-box {
             background: rgba(255, 193, 7, 0.1);
             border: 1px solid #ffc107;
-            padding: 20px;
-            border-radius: 15px;
+            padding: 15px;
+            border-radius: 10px;
             margin-bottom: 25px;
-            font-size: 0.95em;
             text-align: center;
             color: #ffc107;
-            line-height: 1.6;
         }
         .mail-btn {
             background-color: #bb86fc;
             color: #121212;
-            padding: 12px 25px;
-            border-radius: 8px;
+            padding: 10px 20px;
+            border-radius: 5px;
             text-decoration: none;
             font-weight: bold;
             display: inline-block;
-            margin-top: 15px;
-            transition: 0.3s;
+            margin-top: 10px;
         }
-        .mail-btn:hover { background-color: #03dac6; }
 
         .video-block {
-            margin-bottom: 40px;
-            background: rgba(255, 255, 255, 0.05);
-            padding: 20px;
-            border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-            border: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 30px;
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 12px;
+            border: 1px solid #333;
         }
-        h3 { color: #03dac6; border-left: 4px solid #bb86fc; padding-left: 10px; margin-top: 0; }
-        video { width: 100%; border-radius: 10px; background: #000; }
-        .footer { margin-top: 30px; opacity: 0.6; font-size: 0.8em; text-align: center; }
+        h3 { color: #03dac6; margin-top: 0; }
+        video { width: 100%; border-radius: 8px; background: #000; display: block; }
+        .footer { margin-top: 30px; opacity: 0.5; text-align: center; font-size: 0.9em; }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h1>🎬 მოგესალმებით GIGRA-ში</h1>
-        <p style="text-align:center; margin-bottom: 30px;">ადგილი, სადაც მოგონებები ცოცხლდება</p>
-
+        <h1>🎬 GIGRA კინოთეატრი</h1>
+        
         <div class="alert-box">
-            🔒 <b>დაცული კონტენტი:</b> ეს არის პირადი ვიდეოარქივი. <br>
-            თუ ვიდეო არ ირთვება, დააჭირეთ ღილაკს და მოითხოვეთ წვდომა მფლობელისგან: <br>
-            <a href="mailto:mamukagagnidze160719@gmail.com" class="mail-btn">
-               ✉️ წვდომის მოთხოვნა
-            </a>
-            <br><br>
-            <small>ან გახსენით <b>Chrome</b> ბრაუზერში თქვენი Gmail ანგარიშით.</small>
+            🔒 <b>პირადი არქივი:</b> ვიდეოს ჩასართავად შედით თქვენს Google ანგარიშში.<br>
+            <a href="mailto:mamukagagnidze160719@gmail.com" class="mail-btn">✉️ წვდომის მოთხოვნა</a>
         </div>
 
         <div class="video-block">
@@ -93,7 +82,7 @@
         </div>
 
         <div class="video-block">
-            <h3>📽️ მეოთხე დარბაზი - კარგი დინოზავრი</h3>
+            <h3>📽️ მეოთხე დარბაზი - დინოზავრი</h3>
             <video controls playsinline preload="metadata">
                 <source src="https://drive.google.com/uc?export=download&id=1kXIepEx6Oy_9SZfyI9JzHx-IpZQeDAHF" type="video/mp4">
             </video>
@@ -107,7 +96,7 @@
         </div>
 
         <div class="footer">
-            <p>ისიამოვნეთ ყურებით! © 2026 | GIGRA Cinema</p>
+            <p>© 2026 | GIGRA Cinema - ყველა უფლება დაცულია</p>
         </div>
     </div>
 
